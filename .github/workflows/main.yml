@@ -23,7 +23,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: Set up JDK 17
 
     - name: Run Single script
       run: echo hello World
