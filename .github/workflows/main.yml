@@ -17,7 +17,7 @@ on:
 
 
 jobs:
-  build:
+  build-and-release:
 
     runs-on: ubuntu-latest
 
